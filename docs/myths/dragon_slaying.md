@@ -1,6 +1,7 @@
 ---
 title: Dragon-slaying myths
 description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
+image: https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg
 author: Anindita Basu
 date: 2024-02-10
 html_meta:
