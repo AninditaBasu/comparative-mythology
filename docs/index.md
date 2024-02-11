@@ -1,14 +1,5 @@
 ---
-title: Comparative mythology
-description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
-author: Anindita Basu
-date: 2024-02-10
-og\:title: Comparative mythology
-og\:description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
-og\:image: https://aninditabasu.github.io/comparative-mythology/images/logo.jpg
-twitter\:title: Comparative mythology
-twitter\:description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
-twitter\:image: https://aninditabasu.github.io/comparative-mythology/images/logo.jpg
+keywords: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
 ---
 
 # Comparative mythology
