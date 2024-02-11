@@ -31,13 +31,13 @@ plugins:
     - search
     - macros
     - ultralytics:
-        verbose: False
+        verbose: True
         enabled: True
         default_image: "https://aninditabasu.github.io/comparative-mythology/images/logo.jpg"
         add_desc: True
         add_image: True
-        add_keywords: True
-        add_share_buttons: True
+        add_keywords: False
+        add_share_buttons: False
         add_dates: False
         add_authors: False
 
@@ -52,6 +52,6 @@ extra:
 
 nav:
   - 'Home': 'index.md'
-  - 'Here be dragons': 'myths/dragon_slaying.md'
+  - 'Dragon killings': 'myths/dragon_slaying.md'
 
 

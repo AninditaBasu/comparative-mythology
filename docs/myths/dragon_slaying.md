@@ -1,7 +1,3 @@
----
-keywords: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
----
-
 # Dragon-slaying myths
 
 Dragons are mythical monsters that look like giant reptiles. The etymology of the word suggests that _dragon_ is derived from the Greek word _drakōn_, which means _snake_ [^1]. Snakes have, from the earliest times, been feared because of their human-killing venomous bite. It was easy for the ancients to imagine anything fearsome and cruel to be a dragon, and any person overcoming or killing such a menace to be a hero, worthy of adulation.
