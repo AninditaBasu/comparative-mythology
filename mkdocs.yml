@@ -1,0 +1,27 @@
+site_name: Comparative Mythology
+site_url: https://aninditabasu.github.io/comparative-mythology/
+site_description: Examining the myths of ancient lands by comparing and contrasting the actors, actions, and places.
+copyright: Copyright &copy; 2024 Anindita Basu
+
+theme:
+  name: material
+  logo: images/logo.jpg
+  favicon: images/favicon.ico
+
+markdown_extensions:
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - 'Home': 'index.md'
+  - 'Here be dragons': 'myths/dragon_slaying.md'
+
+
