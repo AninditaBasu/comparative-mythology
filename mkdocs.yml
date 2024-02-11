@@ -3,6 +3,8 @@ site_url: https://aninditabasu.github.io/comparative-mythology/
 site_description: Examining the myths of ancient lands by comparing and contrasting the actors, actions, and places.
 copyright: Copyright &copy; 2024 Anindita Basu
 
+docs_dir: docs
+
 theme:
   name: material
   logo: images/logo.jpg
@@ -19,6 +21,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+    - search
+    - macros
 
 nav:
   - 'Home': 'index.md'
