@@ -4,12 +4,12 @@ description: A liguistic, psychological, structral, phylogenetical, naturalistic
 author: Anindita Basu
 date: 2024-02-10
 html_meta:
-    og:title: Comparative mythology
-    og:description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
-    og:image: /docs/images/logo.jpg
-    twitter:title: Comparative mythology
-    twitter:description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
-    twitter:image: /docs/images/logo.jpg
+    og\:title: Comparative mythology
+    og\:description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
+    og\:image: /docs/images/logo.jpg
+    twitter\:title: Comparative mythology
+    twitter\:description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
+    twitter\:image: /docs/images/logo.jpg
 ---
 
 # Comparative mythology
