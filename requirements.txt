@@ -1,2 +1,3 @@
+jinja2==3.0.3
 MkDocs==1.5.3
 mkdocs-material==9.5.9
