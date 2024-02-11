@@ -9,6 +9,11 @@ theme:
   name: material
   logo: images/logo.jpg
   favicon: images/favicon.ico
+  palette:
+    primary: brown
+  features:
+    - toc.follow
+    - navigation.top
 
 markdown_extensions:
   - footnotes
@@ -25,6 +30,15 @@ markdown_extensions:
 plugins:
     - search
     - macros
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/anindita_basu
+      name: Anindita Basu on Twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/aninditabasu/
+      name: Anindita Basu on LinkedIn
 
 nav:
   - 'Home': 'index.md'

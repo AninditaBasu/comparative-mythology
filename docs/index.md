@@ -1,3 +1,13 @@
+---
+title: Comparative mythology
+description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
+author: Anindita Basu
+date: 2024-02-10
+og_title: Comparative mythology
+og_description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
+og_image: /docs/images/logo.jpg
+---
+
 # Comparative mythology
 
 What is mythology if not humankind's desperate attempt to make sense of Nature, an attempt that seeks to reassure them that doomsday is not near and that they can go on living their lives, minding their business because there will always be someone who helps them contend with the unforeseen. An attempt spans across regions and cultures, and lives through the oral transmission of stories. 
