@@ -2,12 +2,12 @@
 title: Myths across the world
 description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
 author: Anindita Basu
-"og:title": "Myths across the world"
-"og:description": A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world.
-"og:image": "https://aninditabasu.github.io/comparative-mythology/images/logo.jpg"
-"twitter:description": "A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world"
-"twitter:title": "Myths across the world"
-"twitter:image": "https://aninditabasu.github.io/comparative-mythology/images/logo.jpg"
+og:title: Myths across the world
+og:description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world.
+og:image: https://aninditabasu.github.io/comparative-mythology/images/logo.jpg
+twitter:description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
+twitter:title: Myths across the world
+twitter:image: https://aninditabasu.github.io/comparative-mythology/images/logo.jpg
 ---
 
 # Comparative mythology
