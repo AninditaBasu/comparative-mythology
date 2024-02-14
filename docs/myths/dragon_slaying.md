@@ -1,3 +1,15 @@
+---
+title: Dragon killers
+description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
+author: Anindita Basu
+"og:title": "Dragon killers"
+"og:description": Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
+"og:image": "https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg"
+"twitter:description": "Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros."
+"twitter:title": "Dragon killers"
+"twitter:image": "https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg"
+---
+
 # Dragon-slaying myths
 
 Dragons are mythical monsters that look like giant reptiles. The etymology of the word suggests that _dragon_ is derived from the Greek word _drakōn_, which means _snake_ [^1]. Snakes have, from the earliest times, been feared because of their human-killing venomous bite. It was easy for the ancients to imagine anything fearsome and cruel to be a dragon, and any person overcoming or killing such a menace to be a hero, worthy of adulation.
@@ -157,6 +169,8 @@ When Hercules awoke and learnt what had happened, he went up to Cacus's cave to 
 
 ## Linguistic analysis
 
+Are there any connections between the words in the myths? 
+
 In the Indra-Vritra myth, the name _Vritra_ is used interchangeably with _Vala_ and _Ahi_, as seen in the following verses from the Rig Veda:
 
 !!! note ""
@@ -193,7 +207,9 @@ The other three myths, namely, the Indra-Vritra myth, the Thraetaona-Azi Dahaka 
 
 ## Psychological analysis
 
-These five myths can be examined through the lens of the following two archetypes: 
+Are there any common motifs or behavioural pattern in the actors and scenes in these myths?
+
+The following two archetypes can be used for analysis: 
 
 - The archetype of good-versus-evil 
 - The archetype of the hero 
@@ -210,6 +226,8 @@ Here's a tabulation of the archetypes in these myths.
 From a psychological standpoint, therefore, the Trita-Trishira myth does not belong to the same class as the other four myths.
 
 ## Structural analysis
+
+What's the plot?
 
 All of these myths have a common basic structure of a three-headed being who is killed by a god or demigod. 
 
@@ -230,8 +248,9 @@ The structural similarities among these myths can be tabulated in the following 
 |Mountains are involved?|Yes|No|Yes|No|Yes|
 |Light is involved?|Yes|No|Yes|No|No|
 
-From a structural standpoint, it looks like the Trita-Trishira myth is an outlier for this group, and is structurally not really similar to them except for the part about the vanquished being a three-headed being. 
-## Historical and comparative analysis
+From a structural standpoint, it looks like the Trita-Trishira myth is an outlier for this group, and is structurally not really similar to them except for the part about the vanquished being a three-headed being.
+ 
+## Historical analysis
 
 Historical evidence for Indra and Trita are non-existent. 
 
@@ -248,6 +267,8 @@ From a historical and comparative perspective, therefore, it would seem that the
 
 ## Naturalistic analysis
 
+Are any natural elements the components of these myths?
+
 Trita is connected with water by his very name _Aptya_ (meaning, 'born of water'). Also, Trita (meaning, 'third') is the third form of the god of fire, which is the lightning that releases the pent up waters in the clouds [^38]. Indra, too, is a lightning-wielder and brings down dark 'clouds' from the sky so that the waters can be released. Both these gods are helped by the wind gods when they pierce the cloud mountains. Thus, both Trita and Indra can be said to be manifestations of the natural phenomenon of lightning. 
 
 Trita and Thraetaona are both linked to fire. Thraetaona has later been called Behram [^39]. Whether the Iranian fire, known as _Atash-e-Bahram_ (meaning, 'the fire of Behram') is in any way related to Trita, Thraetaona, or the natural event of lightning, needs further research. 
@@ -255,6 +276,8 @@ Trita and Thraetaona are both linked to fire. Thraetaona has later been called B
 The myths of Vahagn and Hercules do not seem to show any connection with any natural phenomenon. 
 
 ## Phylogenetical 
+
+History begins where myths end. How did these myths change over time?
 
 Indra and Trita both kill a demon, and both are helped by the wind gods. Trita was a god in the times of the Rig Veda but by later vedic times, Trita was only a rishi [^40]. In quite a few places in the Rig Veda, Trita is also associated with Soma, the drink of the gods [^41]. He is seen as preparing the Soma and offering it to the gods. While Indra (along with Agni) has the maximum number of verses in the Rig Veda addressed to him, there are about only forty Rig Veda verses that mention Trita and, in many of them, he is only the poet and not the god being invoked. It would seem that, over a period of time, Trita's god-ness was appropriated by Indra [^42]. 
 
