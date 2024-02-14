@@ -2,12 +2,18 @@
 title: Dragon killers
 description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
 author: Anindita Basu
-og:title: Dragon killers
-og:description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
-og:image: https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg
-twitter:description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
-twitter:title: Dragon killers
-twitter:image: https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg
+og:title: >
+  Dragon killers
+og:description: >
+  Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
+og:image: >
+  https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg
+twitter:description: >
+  Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
+twitter:title: >
+  Dragon killers
+twitter:image: >
+  https://aninditabasu.github.io/comparative-mythology/images/Indra_Musee_Guimet_1097_1.jpg
 ---
 
 # Dragon-slaying myths
