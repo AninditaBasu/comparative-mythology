@@ -30,16 +30,6 @@ markdown_extensions:
 plugins:
     - search
     - macros
-    - ultralytics:
-        verbose: True
-        enabled: True
-        default_image: "https://aninditabasu.github.io/comparative-mythology/images/logo.jpg"
-        add_desc: True
-        add_image: True
-        add_keywords: False
-        add_share_buttons: False
-        add_dates: False
-        add_authors: False
 
 extra:
   social:
