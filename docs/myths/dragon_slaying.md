@@ -2,6 +2,7 @@
 title: Dragon killers
 description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
 author: Anindita Basu
+image: ../images/Indra_Musee_Guimet_1097_1.jpg
 og:
   type: website
   title: Dragon killers

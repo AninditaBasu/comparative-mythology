@@ -16,6 +16,7 @@ theme:
     - navigation.top
 
 markdown_extensions:
+  - meta
   - footnotes
   - admonition
   - pymdownx.details

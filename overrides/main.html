@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {% set title = config.site_name %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = title ~ " - " ~ page.meta.title %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set title = title ~ " - " ~ page.title | striptags %}
+  {% endif %}
+  {% if page and page.meta and page.meta.description %}
+    {% set description = description ~ " - " ~ page.meta.description %}
+  {% elif page and page.description and not page.is_homepage %}
+    {% set description = description ~ " - " ~ page.description | striptags %}
+  {% endif %}
+  {% if page and page.meta and page.meta.image %}
+    {% set image = image ~ " - " ~ page.meta.image %}
+  {% elif page and page.image and not page.is_homepage %}
+    {% set image = image ~ " - " ~ page.image | striptags %}
+  {% endif %}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:image" content="{{ image }}" />
+{% endblock %}
+
+{% block extrahead %}
+  {% set title = config.site_name %}
+  {% if page and page.meta and page.meta.title %}
+    {% set title = title ~ " - " ~ page.meta.title %}
+  {% elif page and page.title and not page.is_homepage %}
+    {% set title = title ~ " - " ~ page.title | striptags %}
+  {% endif %}
+  {% if page and page.meta and page.meta.description %}
+    {% set description = description ~ " - " ~ page.meta.description %}
+  {% elif page and page.description and not page.is_homepage %}
+    {% set description = description ~ " - " ~ page.description | striptags %}
+  {% endif %}
+  {% if page and page.meta and page.meta.image %}
+    {% set image = image ~ " - " ~ page.meta.image %}
+  {% elif page and page.image and not page.is_homepage %}
+    {% set image = image ~ " - " ~ page.image | striptags %}
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@anindita_basu" />
+  <meta name="twitter:creator" content="@anindita_basu" />
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:description" content="{{ description }}" />
+  <meta name="twitter:image" content="{{ image }}" />
+{% endblock %}

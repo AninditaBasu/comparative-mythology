@@ -2,6 +2,7 @@
 title: Myths across the world
 description: A liguistic, psychological, structral, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
 author: Anindita Basu
+image: images/logo.jpg
 og:
   type: website
   title: Myths across the world
