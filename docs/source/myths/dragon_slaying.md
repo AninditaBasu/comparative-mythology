@@ -2,17 +2,15 @@
 myst:
   html_meta:
     "title": "Dragon killers"
-    "description lang=en": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
+    "description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
     "author": "Anindita Basu"
     "image": "https://comparative-mythology.readthedocs.io/en/latest/_static/Indra_Musee_Guimet_1097_1.jpg"
     "keywords": "India, Persia, Armenia, Italy"
-    "property=og:locale": "en_US"
     "og:type": "website"
     "og:title": "Dragon killers"
     "og:description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
     "og:image": "https://comparative-mythology.readthedocs.io/en/latest/_static/Indra_Musee_Guimet_1097_1.jpg"
     "twitter:card": "summary_large_image"
-    "twitter:site": "@anindita_basu"
     "twitter:title": "Dragon killers"
     "twitter:description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
     "twitter:image": "https://comparative-mythology.readthedocs.io/en/latest/_static/Indra_Musee_Guimet_1097_1.jpg"
