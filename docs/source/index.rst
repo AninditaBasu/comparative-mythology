@@ -10,7 +10,7 @@
    :og\:type: website
    :og\:title: Myths across the world
    :og\:description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world
-   :og\:image: https://comparative-mythology.io/en/latest/_static/logo.jpg
+   :og\:image: https://comparative-mythology.readthedocs.io/en/latest/_static/logo.jpg
 
 Comparative Mythology
 ======================
