@@ -15,6 +15,6 @@ sphinx:
 
 # Declare the Python requirements
 # See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
- python:
+python:
   install:
     - requirements: requirements.txt
