@@ -15,7 +15,7 @@ author = 'Anindita Basu'
 
 extensions = [
     'myst_parser',
-#    'sphinx_favicon'
+    'sphinx_favicon'
 ]
 
 myst_enable_extensions = ['colon_fence']
