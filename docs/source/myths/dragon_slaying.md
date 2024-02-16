@@ -347,7 +347,7 @@ A fuller study of these myths, with focus on the following points will surely re
 -  American Heritage Dictionary. Meaning and etymology of dragon. (online) Available at <https://ahdictionary.com/word/search.html?q=dragon> (Accessed 10 February 2024).
 -  Darmesteter, J. and Millis, L., 1883. _The Zenda Avesta_. Oxford: Clarendon. 
 -  Dryden, J., 1937. _Virgil's Aeneid_. New York: P. F. Collier and Son Corporation. 
--  Hastings, J., Selbie, J. and Gray, L., 1926. _Encyclopædia Of Religion And Ethics_. Edinburgh: T & T Clark. 
+-  Hastings, J., Selbie, J. and Gray, L., 1926. _Encyclopædia Of Religion And Ethics_. Edinburgh: T & T Clark.
 -  Hewson, R., 1975. _"The Primary History Of Armenia": An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR_. (online) Jstor.org. Available at <https://www.jstor.org/stable/3171466> (Accessed 10 February 2024). 
 -  Iranicaonline.org. 2020. _ANTIOCHUS OF COMMAGENE – Encyclopaedia Iranica_. (online) Available at 
 <https://iranicaonline.org/articles/antiochus-of-commagene> (Accessed 10 February 2024). 
@@ -376,13 +376,13 @@ A fuller study of these myths, with focus on the following points will surely re
 ic Encyclopedia. Delhi: Motilal Banarsidass, p.795. 
 [^7]: Rig Veda 8.7.24 
 [^8]: Rig Veda 10.8.8 
-[^9]: Yast V, Aban Yast, Chapters VIII-IX, Verses 28-32 
-[^10]: Yast V, Aban Yast, Chapters VIII-IX, Verses 33-35 
-[^11]: Yast XV, Ram Yast, Verse 20 
-[^12]: Yast XV, Ram Yast, Verses 24-2513 Yasna IX, Hom Yast, Verses 7-8 
-[^14]: Yasna IX, Hom Yast, Verses 10-11 
+[^9]: Yašt V, Ābān Yašt, Chapters VIII-IX, Verses 28-32 
+[^10]: Yašt V, Ābān Yašt, Chapters VIII-IX, Verses 33-35 
+[^11]: Yašt XV, Ram Yašt, Verse 20 
+[^12]: Yašt XV, Ram Yašt, Verses 24-2513 Yasna IX, Hom Yašt, Verses 7-8 
+[^14]: Yasna IX, Hom Yašt, Verses 10-11 
 [^15]: Russell, J., 2007. The Shrine Beneath The Waves On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/20167721](https://www.jstor.org/stable/20167721) (Accessed 10 February 2024). 
-[^16]: Kurkjian, V., 1958. A History of Armenia. Armenia: Armenian General Benevolent Union of America, p.300. 
+[^16]: Kurkjian, V., 1958. A History of Armenia. Armenia: Armenian General Benevolent Union of America, p.300.
 [^17]: Varandyan, E., 1961. Legends And Poems From Armenia On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/40115293](https://www.jstor.org/stable/40115293) (Accessed 10 February 2024). 
 [^18]: Dryden, J., 1937. Virgil's Aeneid. New York: P. F. Collier and Son Corporation, pp.274-277.  
 [^19]: Rig Veda 1.11.5 
@@ -402,10 +402,10 @@ ic Encyclopedia. Delhi: Motilal Banarsidass, p.795.
 [^32]: Ibid, p.159. 
 [^33]: Ibid, p.27. 
 [^34]: Hastings, J., Selbie, J. and Gray, L., 1926. Encyclopædia Of Religion And Ethics. Edinburgh: T & T Clark, p.799. 
-[^35]: Hewson, R., 1975. "The Primary History Of Armenia": An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/3171466](https://www.jstor.org/stable/3171466) (Accessed 10 February 2024). 
+[^35]: Hewson, R., 1975. The Primary History Of Armenia: An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/3171466](https://www.jstor.org/stable/3171466) (Accessed 10 February 2024). 
 [^36]: Iranicaonline.org. 2020. ANTIOCHUS OF COMMAGENE – Encyclopaedia Iranica. (online) Available at [https://iranicaonline.org/articles/antiochus-of-commagene](https://iranicaonline.org/articles/antiochus-of-commagene) (Accessed 10 February 2024).
-[^37]: Al-Salihi, W., 1971. "Hercules-Nergal at Hatra" On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/4199919](https://www.jstor.org/stable/4199919) (Accessed 10 February 2024). 
-[^38]: MacDonell, A., 1893. "Mythological Studies in the Rigveda." Journal of the Royal Asiatic Society of Great Britain and Ireland On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/25197152](https://www.jstor.org/stable/25197152) (Accessed 10 February 2024). 
+[^37]: Al-Salihi, W., 1971. Hercules-Nergal at Hatra On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/4199919](https://www.jstor.org/stable/4199919) (Accessed 10 February 2024). 
+[^38]: MacDonell, A., 1893. Mythological Studies in the Rigveda. Journal of the Royal Asiatic Society of Great Britain and Ireland On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/25197152](https://www.jstor.org/stable/25197152) (Accessed 10 February 2024). 
 [^39]: Tripathi, G., 2011. Vaidika Devatā. Naī Dillī: Rāshtriya Samskr̥ta Samsthāna, p.111.  
 [^40]: Macdonell, A. and Keith, A., 2007. Vedic Index Of Names And Subjects. Delhi: Motilal Banarsidass, p.i. 329. 
 [^41]: Rig Veda 9.32, 9.34, 9.38 
@@ -413,5 +413,3 @@ ic Encyclopedia. Delhi: Motilal Banarsidass, p.795.
 [^43]: Ibid, p.68. 
 [^44]: Tripathi, G., 2011. Vaidika Devatā. Naī Dillī: Rāshtriya Samskr̥ta Samsthāna, p.111.  
 [^45]: Warner, A. and Warner, E., 1905. The Shahnama Of Firdausi. London: Kegan Paul, Trench, Trübner & Co. Ltd., pp.159-170.
-
-
