@@ -1,22 +1,24 @@
 ---
-title: Dragon killers
-description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
-author: Anindita Basu
-image: ../images/Indra_Musee_Guimet_1097_1.jpg
-og:
-  type: website
-  title: Dragon killers
-  description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
-  image: ../images/Indra_Musee_Guimet_1097_1.jpg
-twitter:
-  card: summary_large_image
-  site: @anindita_basu
-  title: Dragon killers
-  description: Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahaka, Vahagn and Azhdahak, Hercules and Cacus. Here be dragons and heros.
-  image: ../images/Indra_Musee_Guimet_1097_1.jpg
+myst:
+  html_meta:
+    "title": "Dragon killers"
+    "description lang=en": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
+    "author": "Anindita Basu"
+    "image": "https://comparative-mythology.readthedocs.io/en/latest/images/Indra_Musee_Guimet_1097_1.jpg"
+    "keywords": "India, Persia, Armenia, Italy"
+    "property=og:locale": "en_US"
+    "og:type": "website"
+    "og:title": "Dragon killers"
+    "og:description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
+    "og:image": "https://comparative-mythology.readthedocs.io/en/latest/images/Indra_Musee_Guimet_1097_1.jpg"
+    "twitter:card": "summary_large_image"
+    "twitter:site": "@anindita_basu"
+    "twitter:title": "Dragon killers"
+    "twitter:description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
+    "twitter:image": "https://comparative-mythology.readthedocs.io/en/latest/images/Indra_Musee_Guimet_1097_1.jpg"
 ---
 
-# Dragon-slaying myths
+# Dragon slayings
 
 Dragons are mythical monsters that look like giant reptiles. The etymology of the word suggests that _dragon_ is derived from the Greek word _drakōn_, which means _snake_ [^1]. Snakes have, from the earliest times, been feared because of their human-killing venomous bite. It was easy for the ancients to imagine anything fearsome and cruel to be a dragon, and any person overcoming or killing such a menace to be a hero, worthy of adulation.
 
@@ -32,18 +34,20 @@ Upon discovering that their cattle was missing, the gods sent their dog, Sarama,
 
 Thereupon, Indra, the king of the gods, gathered his army around, fortified himself with Soma, and attacked Vritra and his Pani troops. Indra took up his thunderbolt and hurled it towards Vritra with a huge roar. The thunderbolt struck Vritra down dead, and split open the mountain that was concealing the cattle herd, who ran out towards the waiting gods. The Rig Veda describes this event several times, for example, in the following verses:
 
-!!! note ""
+```{admonition} Indra's deed   
 
-    -  Indra destroyed Vritra, the lurking demon, 
-	and made manifest the stolen kine hidden in the night [^3].
-	
-	-  Indra, the slayer of Vritra, 
-	shakes the hiding place of the numerous herd of kine [^4].
+   Indra destroyed Vritra, the lurking demon, and made manifest the stolen kine hidden in the night [^3].
 
-<figure markdown="span">
-![Panel at Prasat Koki (Phnom Kulen) showing Indra overpowering Vritra. 9th century. By Vassil - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2724995](../images/Indra_Musee_Guimet_1097_1.jpg)
-<figcaption><span style="font-size:75%">Relief panel from the Phnom Kulen National Park in Cambodia<br/>showing Indra overpowering Vritra<br/>Vassil - Own work, Public Domain <br/> https://commons.wikimedia.org/w/index.php?curid=2724995</span></figcaption>
-</figure>	
+   Indra, the slayer of Vritra, shakes the hiding place of the numerous herd of kine [^4].
+
+```
+
+:::{figure-md} 
+
+<img src="/images/Indra_Musee_Guimet_1097_1.jpg" alt="Panel at Prasat Koki (Phnom Kulen) showing Indra overpowering Vritra. 9th century.">
+
+[9th century relief panel from the Phnom Kulen National Park in Cambodia showing Indra overpowering Vritra. Photo by Vassil - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=2724995)
+:::
 
 ## Myth 2: Trita Aptya and Trishira (India)
  
@@ -53,85 +57,94 @@ Then, there was also Trishira, who was the three-headed son of Tvashtri (master 
 
 Indra, the king of the gods, became fearful of Trishira's power and thought he might be deposed by Trishira. Indra, therefore, wanted Trishira dead. For this purpose, he incited Trita, who then killed Trishira and released his cows [^6]. In this endeavour, Trita was aided by the wind gods. This event is described in the following manner in the Rig Veda:
 
-!!! note ""
+```{admonition} Trita - Trishira battle 
 
-    -  They (the winds) have come to the aid of the warring Trita [^7]. 
+   They (the winds) have come to the aid of the warring Trita [^7]. 
     
-	-  He, the son of waters, incited by Indra, skilled in his weapons, 
-	slew the three-headed son of Tvashtri and set free the cows [^8]. 
+   He, the son of waters, incited by Indra, skilled in his weapons, slew the three-headed son of Tvashtri and set free the cows [^8]. 
 
-## Myth 3: Thraetaona and Azi Dahaka (Persia)
+```
 
-Azi Dahaka was a three-headed, deceitful monster that was created by the dark force called Angra Mainyu. 
+## Myth 3: Thraetaona and Azi Dahâka (Persia)
 
-Seeking a boon that he may clear the world of humankind, the monster performed a sacrifice to the goddess Anahita:
+Azi Dahâka was a three-headed, deceitful monster that was created by the dark force called Angra Mainyu. 
 
-!!! note ""
+Seeking a boon that he may clear the world of humankind, the monster performed a sacrifice to the goddess Anâhita:
 
-    To her did Azi Dahâka, the three-mouthed, offer up a sacrifice…"Grant me this boon, O good, most beneficent Ardvi Sûra Anâhita! that I may make all the seven Karshvares of the earth empty of men." Ardvi Sûra Anâhita did not grant him that boon [^9]. 
+```{admonition} Azi Dahâka prays to Anâhita
 
-Anahita did not grant Azi Dahaka his boon. Instead, she blessed Thraetaona, son of Athwya, who begged of her a boon that he may kill Azi Dahaka and set free the monster's two wives. 
+   To her did Azi Dahâka, the three-mouthed, offer up a sacrifice…"Grant me this boon, O good, most beneficent Ardvi Sûra Anâhita! that I may make all the seven Karshvares of the earth empty of men." Ardvi Sûra Anâhita did not grant him that boon [^9]. 
 
-!!! note ""
+```
 
-    ...that I may overcome Azi Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Drug, that demon, baleful to the world, the strongest Drug that Angra Mainyu created against the material world, to destroy the world of the good principle; and that I may deliver his two wives, Savanghavâk and Erenavâk, who are the fairest of body amongst women, and the most wonderful creatures in the world [^10]. 
+Anâhita did not grant Azi Dahâka his boon. Instead, she blessed Thraetaona, son of Athwya, who begged of her a boon that he may kill Azi Dahâka and set free the monster's two wives. 
 
-His wish having been rejected by Anahita, Azi Dahaka now prayed to the god Vayu:
+```{admonition} Thraetaona prays to Anâhita 
+
+   ...that I may overcome Azi Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Drug, that demon, baleful to the world, the strongest Drug that Angra Mainyu created against the material world, to destroy the world of the good principle; and that I may deliver his two wives, Savanghavâk and Erenavâk, who are the fairest of body amongst women, and the most wonderful creatures in the world [^10]. 
+
+```
+
+His wish having been rejected by Anâhita, Azi Dahâka now prayed to the god Vayu:
  
-!!! note ""
+```{admonition} Azi Dahâka prays to Vayu 
 
-    Grant me this, O Vayu! who dost work highly, that I may make all the seven Karshvares of the earth empty of men [^11]. 
+   Grant me this, O Vayu! who dost work highly, that I may make all the seven Karshvares of the earth empty of men [^11]. 
 
-But Vayu, too, did not grant Azi Dahaka his request.  Instead, just like Anahita had done, Vayu too granted Thraetaona his wish that he may gain victory over Azi Dahaka.
+```
 
-!!! note ""
+But Vayu, too, did not grant Azi Dahâka his request.  Instead, just like Anâhita had done, Vayu too granted Thraetaona his wish that he may gain victory over Azi Dahâka.
 
-    Grant me this, O Vayu! who dost work highly, that I may overcome Azi Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Drug, that demon baleful to the world, the strongest Drum... [^12]
+```{admonition} Thraetaona prays to Vayu
 
-Thraetaona then defeated Azi Dahaka, and bound him to the mountain Damavant, where the monster is to remain till the end of the world, when he'll be finally killed by Keresâspa. The exploit of Thraetaona is described inthe Zend Avesta in the following manner:
+   Grant me this, O Vayu! who dost work highly, that I may overcome Azi Dahâka, the three-mouthed, the three-headed, the six-eyed, who has a thousand senses, that most powerful, fiendish Drug, that demon baleful to the world, the strongest Drum... [^12]
 
-!!! note ""
+```
 
-    Athwya, was the second who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that to him a son was born, Thraetaona of the heroic tribe, who smote the dragon Dahak, three jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of the Daevas, evil for our settlements, and wicked, whom the evil spirit Angra Mainyu made as the most mighty Drugk against the corporeal world, and for the murder of our settlements, and to slay the homes of Asha [^13].
+Thraetaona then defeated Azi Dahâka, and bound him to the mountain Damavant, where the monster is to remain till the end of the world, when he'll be finally killed by Keresâspa. The exploit of Thraetaona is described in the Zend Avesta in the following manner:
+
+```{admonition} Thraetaona's deed 
+
+   Athwya, was the second who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that to him a son was born, Thraetaona of the heroic tribe, who smote the dragon Dahak, three jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of the Daevas, evil for our settlements, and wicked, whom the evil spirit Angra Mainyu made as the most mighty Drugk against the corporeal world, and for the murder of our settlements, and to slay the homes of Asha [^13].
 	
-Keresâspa, who is fated to kill Azi Dahaka at the end of time, is none other than the son of Thrita, and has overpowered many monsters and evil beings. This is described in the Zend Avesta in the following manner: 
+```
 
-!!! note ""
+Keresâspa, who is earmarked for killing Azi Dahâka at the end of time, is none other than the son of Thrita, and has overpowered many monsters and evil beings. This is described in the Zend Avesta in the following manner: 
 
-    ...youth of great ascendant, ringlet-headed, bludgeon-bearing. He who smote the horny dragon swallowing men, and swallowing horses, poisonous, and green of colour, over which, as thick as thumbs are, greenish poison flowed aside, on whose back once Keresâspa cooked his meat in iron caldron at the noonday meal... [^14]
+```{admonition} Who is Keresâspa
+
+   ...youth of great ascendant, ringlet-headed, bludgeon-bearing. He who smote the horny dragon swallowing men, and swallowing horses, poisonous, and green of colour, over which, as thick as thumbs are, greenish poison flowed aside, on whose back once Keresâspa cooked his meat in iron caldron at the noonday meal... [^14]
 	
+```
+
 ## Myth 4: Vahagn and Azhdahak (Armenia) 
 
-Vahagn belongs to the Armenian gods trinity, along with two other gods, namely, Armazd and Anahit. In Yerevan, Armenia, stands a huge rock-cut statue of the god Vahagn killing a serpent dragon.
+Vahagn belongs to the Armenian gods trinity, along with two other gods, namely, Armazd and Anahit. In Yerevan, Armenia, there's a huge rock-cut statue of the god Vahagn killing a serpent dragon.
 
-<figure markdown="span">
-![Statue of Vahagn the Dragon Slayer choking a dragon in Yerevan, Armenia, by Chaojoker - Own work, CC BY-SA 3.0,https://commons.wikimedia.org/w/index.php?curid=26731941](../images/vahagn.jpg)
-<figcaption><span style="font-size:75%">Statue of Vahagn the Dragon Slayer choking a dragon in Yerevan, Armenia<br/>Chaojoker - Own work, CC BY-SA 3.0<br/>https://commons.wikimedia.org/w/index.php?curid=26731941</span></figcaption>
-</figure>
+:::{figure-md} 
+
+<img src="/images/vahagn.jpg" alt="Statue in Yerevan, Armenia, of Vahagn choking a dragon">
+
+[Statue in Yerevan, Armenia, of Vahagn choking a dragon. Photo by Chaojoker - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=26731941)
+:::
 
 Much of Armenia's folklore has been lost after its changeover to Christianity, but the country has long had an oral tradition about Vahagn dragging serpents and monsters out of Lake Van and throwing them up to the sun to be burnt to death [^15]. 
 
 The story about killing the monster Azhdahak is recounted in a song by Moses Khorenatsi [^16], which begins by describing the god's birth in the following manner:
 
-!!! note ""
+```{admonition} Vahagn's birth
 
-    In travail were heaven and earth,
-	
-    In travail, too, the purple sea!
-	
-    The travail held in the sea the small red reed.
-	
-    Through the hollow of the stalk came forth smoke,
-	
-    Through the hollow of the stalk came forth flame,
-	
-    And out of the flame a youth ran!
-	
-    Fiery hair had he,
-	
-    Ay, too, he had flaming beard,
-	
-    And his eyes, they were as suns! 
+   In travail were heaven and earth,
+   In travail, too, the purple sea!
+   The travail held in the sea the small red reed.
+   Through the hollow of the stalk came forth smoke,
+   Through the hollow of the stalk came forth flame,
+   And out of the flame a youth ran!
+   Fiery hair had he,
+   Ay, too, he had flaming beard,
+   And his eyes, they were as suns! 
+
+```
 
 The song goes on to say that Vahagn killed Azhdahak, and is called _Vishapakagh_ because he killed dragons [^17] (in the Armenian language, _vishap_ means 'sea dragon' and _akagh_ means 'slayer'). 
 
@@ -143,35 +156,37 @@ Once, it so happened that the hero Hercules, who was shepherding the cows of Ger
 
 When Hercules awoke and learnt what had happened, he went up to Cacus's cave to recover the cattle. Being unable to enter the cave, he broke open the mountain top, reached inside and pulled Cacus out, throttled the monster to death, and freed the cows. This entire story is described by Virgil in Chapter VIII of The Aeneid in the following manner:
 
-!!! note ""
+```{admonition} Hercules smashes a mountain
 
-    The hero stood
-	
-    Adverse, with planted feet, and, from the right,
-	
-    Tugg'd at the solid stone with all his might.
-	
-    Thus heav'd, the fix'd foundations of the rock
-	
-    Gave way; heav'n echo'd at the rattling shock.
-	
-    Tumbling, it chok'd the flood: on either side
-	
-    The banks leap backward, and the streams divide.
-	
-    ...
-	
-    The monster, spewing fruitless flames, he found;
-	
-    He squeez'd his throat; he writh'd his neck around,
-	
-    And in a knot his crippled members bound;
-	
-    Then from their sockets tore his burning eyes:
-	
-    Roll'd on a heap, the breathless robber lies.
-	
-    The doors, unbarr'd, receive the rushing day. [^18]  
+   The hero stood
+   
+   Adverse, with planted feet, and, from the right,
+   
+   Tugg'd at the solid stone with all his might.
+   
+   Thus heav'd, the fix'd foundations of the rock
+   
+   Gave way; heav'n echo'd at the rattling shock.
+   
+   Tumbling, it chok'd the flood: on either side
+   
+   The banks leap backward, and the streams divide.
+   
+   ...
+   
+   The monster, spewing fruitless flames, he found;
+   
+   He squeez'd his throat; he writh'd his neck around,
+   
+   And in a knot his crippled members bound;
+   
+   Then from their sockets tore his burning eyes:
+   
+   Roll'd on a heap, the breathless robber lies.
+   
+   The doors, unbarr'd, receive the rushing day. [^18]
+
+```
 
 ## Linguistic analysis
 
@@ -179,24 +194,27 @@ Are there any connections between the words in the myths?
 
 In the Indra-Vritra myth, the name _Vritra_ is used interchangeably with _Vala_ and _Ahi_, as seen in the following verses from the Rig Veda:
 
-!!! note ""
+```{admonition} Vritra is Vala; Vritra is Ahi
 
-    -  You, wielder of the thunderbolt, did open the cave of Vala, who had there concealed the cattle; and the gods whom he had oppressed, no longer feared when they had obtained you as their ally [^19].
+   You, wielder of the thunderbolt, did open the cave of Vala, who had there concealed the cattle; and the gods whom he had oppressed, no longer feared when they had obtained you as their ally [^19].
 
-    -  Indra, you have set free the waters that were formerly arrested by Ahi [^20].
+   Indra, you have set free the waters that were formerly arrested by Ahi [^20].
 
-    -  Priests! Offer the drink to Indra, who slew the rain-arresting Vritra [^21].
+   Priests! Offer the drink to Indra, who slew the rain-arresting Vritra [^21].
+
+```
 
 The Sanskrit _Ahi_ is cognate with the Iranian _Azi_ [^22] and Armenian _Azh (օձ)_ [^23], all of which mean a 'snake'.
  
-The name of the villain is very similar in the Iranian (_Azi Dahaka_) and Armenian (_Azh Dahak_) myths. 
+The name of the villain is very similar in the Iranian (_Azi Dahâka_) and Armenian (_Azhdahak_) myths. 
+
 The Sanskrit suffixes _-ghn_ and _-han_ are cognate with the Iranian _-gn_ and Armenian _-akagh_, all of which mean a 'destroyer or remover of obstacles'. Indra is often referred to as _Vritraghn_ and _Vritrahan_, while Vahagn is called _Vishapakagh_.
 
 _Trita_ of the Trita-Trishira myth can be said to bear a phonetic similarity to the Iranian _Tishtrya_ who fights against the demon _Apaosha_ (drought) and pours liberating rain upon the earth [^24]. However, this aspect needs to be examined in much more detail before a linguistic similarity can be drawn between _Trita_ and _Tishtrya_.
 
 Here's a tabulation of the cognate words from the five myths.
 
-|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahaka | Vahagn - Azhdahak | Hercules - Cacus |
+|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahâka | Vahagn - Azhdahak | Hercules - Cacus |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |Hero's epithet | Vritrahan, Vritraghn | - | Verethregn | Vishapakagh | - |
 |Hero's parent | - | Ap|Athwya | -|- |
@@ -207,9 +225,9 @@ Here's a tabulation of the cognate words from the five myths.
 
 From a linguistic standpoint, it seems that the Hercules-Cacus myth is an outlier. However, in the ancient Greek language, the word _Cacus (κακός)_ means _bad or evil_ [^28], and some research is needed to see whether the Iranian and Armenian _Dahak_ are cognate with _Cacus_.
  
-It also seems that, linguistically, the Trita-Trishira myth belongs only tentatively to the group through its connection to the Thraetaona-Azi Dahaka myth by the 'water'-word _Ap_. Keresâspa, who will kill Azi Dahaka at the end of time, is the son of Thrita. Further research is needed to see whether this Thrita is related to Trita.
+It also seems that, linguistically, the Trita-Trishira myth belongs only tentatively to the group through its connection to the Thraetaona-Azi Dahâka myth by the 'water'-word _Ap_. Keresâspa, who will kill Azi Dahâka at the end of time, is the son of Thrita. Further research is needed to see whether this Thrita is related to Trita.
 
-The other three myths, namely, the Indra-Vritra myth, the Thraetaona-Azi Dahaka myth, and the Vahagn-Azhdahak myth, have several linguistic similarities among them.
+The other three myths, namely, the Indra-Vritra myth, the Thraetaona-Azi Dahâka myth, and the Vahagn-Azhdahak myth, have several linguistic similarities among them.
 
 ## Psychological analysis
 
@@ -220,11 +238,11 @@ The following two archetypes can be used for analysis:
 - The archetype of good-versus-evil 
 - The archetype of the hero 
 
-In the Indra-Vritra myth, Indra is the hero who, aided by other gods, kills the evil Vritra who has imprisones the cows (which is an analogy for obstructing the rainwaters) and has, as a result, brought drought upon the earth. Vritra has been repeatedly called a demon. Azi Dahaka is evil personified as he openly declared his intention of ridding the world of humans, and it needs two heroes to overcome him, namely, Thraetaona, who chains him up, and Keresâspa, who will kill him. Vahagn is a hero who plays with evil dragons. Hercules heroism lives so long that when he dies, he is turned into a star by his father Zeus [^29]. It is only in the Trita-Trishira myth that an archetype is not evident; the story seems to be one of petty jealousy on the part of Indra who then incites Trita to kill Trishira, and contains neither a hero archetype nor a good-versus-evil archetype. 
+In the Indra-Vritra myth, Indra is the hero who, aided by other gods, kills the evil Vritra who has imprisones the cows (which is an analogy for obstructing the rainwaters) and has, as a result, brought drought upon the earth. Vritra has been repeatedly called a demon. Azi Dahâka is evil personified as he openly declared his intention of ridding the world of humans, and it needs two heroes to overcome him, namely, Thraetaona, who chains him up, and Keresâspa, who will kill him. Vahagn is a hero who plays with evil dragons. Hercules heroism lives so long that when he dies, he is turned into a star by his father Zeus [^29]. It is only in the Trita-Trishira myth that an archetype is not evident; the story seems to be one of petty jealousy on the part of Indra who then incites Trita to kill Trishira, and contains neither a hero archetype nor a good-versus-evil archetype. 
 
 Here's a tabulation of the archetypes in these myths.
 
-|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahaka | Vahagn - Azhdahak | Hercules - Cacus |
+|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahâka | Vahagn - Azhdahak | Hercules - Cacus |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |Hero archetype? | Yes | No |  Yes | Yes | Yes |
 |Good-versus-evil archetype? |Yes | No| Yes |Yes |Yes |
@@ -237,15 +255,15 @@ What's the plot?
 
 All of these myths have a common basic structure of a three-headed being who is killed by a god or demigod. 
 
-In all of the cases, except in the Trita-Trishira myth, this three-headed being lives inside a cave or likes to hide in a mountain or inside a lake. The antipathy to light and open spaces is evident. 
+In all these cases, except in the Trita-Trishira myth, this three-headed being lives inside a cave or likes to hide in a mountain or inside a lake. The antipathy to light and open spaces is evident. 
 
-In all of the cases, except in the Vahagn-Azhdahak myth, cattle is involved. 
+In all these cases, except in the Vahagn-Azhdahak myth, cattle is involved. 
 
-In all of the cases, except in the Trita-Trishira myth, a water body is involved: the cows in the two Vedic stories are euphemisms for water - whether rain or river [^30] - and the serpent [^31] and its cave is a personification of clouds [^32] that obstruct the light ('light' is another word for 'cow' [^33]) and waters; Trita is called _Aptya_ because he's a son of water; Thraetaona's father, Athwya, is related to water too, as is Vahagn who, besides being born of the water, also drags serpents out of the waters of Lake Van and kills them; Hercules's breaking of the mountains to bring out Cacus resulted in the rivers breaching their banks.
+In all these cases, except in the Trita-Trishira myth, a water body is involved: the cows in the two Vedic stories are euphemisms for water - whether rain or river [^30] - and the serpent [^31] and its cave is a personification of clouds [^32] that obstruct the light ('light' is another word for 'cow' [^33]) and waters; Trita is called _Aptya_ because he's a son of water; Thraetaona's father, Athwya, is related to water too, as is Vahagn who, besides being born of the water, also drags serpents out of the waters of Lake Van and kills them; Hercules's breaking of the mountains to bring out Cacus resulted in the rivers breaching their banks.
  
 The structural similarities among these myths can be tabulated in the following manner. 
 
-|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahaka | Vahagn - Azhdahak | Hercules - Cacus |
+|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahâka | Vahagn - Azhdahak | Hercules - Cacus |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |Victor is a god?|Yes|Son of god|Yes |Yes|Son of god|
 |Vanquished is three-headed?|No|Yes|Yes|Yes|Yes|
@@ -262,12 +280,14 @@ Historical evidence for Indra and Trita are non-existent.
 
 Because of the pervading cultural influence of Iran over Armenia for a very long time, the Iranian Verethergn became the Armenian Vahagn [^34]. In later Armenian lore, Vahagn is a king who had once been worshipped as a god, and from whom the hereditary high priests of Armenia claimed descent [^35]. In the Hellenic times, Vahagn was linked to Hercules.
 
-<figure markdown="span">
-![Hellenistic-era depiction of Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran, by Alieh - Flickr, CC BY 2.0, https://commons.wikimedia.org/wiki/index.%20php?curid=1654040. Verethragna (Bahram) reclines with a goblet in his hand, a club at his feet and a lion-skin beneath him.](../images/Bistoon_Kermanshah.jpg)
-<figcaption><span style="font-size:75%">Hellenistic-era depiction of Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran<br/>Alieh - Flickr, CC BY 2.0<br/> https://commons.wikimedia.org/wiki/index.%20php?curid=1654040<br/>Verethragna (Bahram) reclines with a goblet in his hand, a club at his feet and a lion-skin beneath him.</span></figcaption>
-</figure>
+:::{figure-md} 
 
- The monuments at Mount Nemrut, Turkey, erected by Antiochus I Theos of Commagene [^36], show that both the Iranian Verethregn (Thraetaona) and the Armenian Vahagn were identified with Hercules [^37]. 
+<img src="/images/Bistoon_Kermanshah.jpg" alt="Hellenic-era depiction of Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran">
+
+[Hellenic-era depiction of Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran. Verethragna (Bahram) reclines with a goblet in his hand, a club at his feet and a lion-skin beneath him. Photo by Alieh - Flickr, CC BY 2.0](https://commons.wikimedia.org/wiki/index.%20php?curid=1654040)
+:::
+
+The monuments at Mount Nemrut, Turkey, erected by Antiochus I Theos of Commagene [^36], show that both the Iranian Verethregn (Thraetaona) and the Armenian Vahagn were identified with Hercules [^37]. 
 
 From a historical and comparative perspective, therefore, it would seem that the Thraetaona, Vahagn, and Hercules myths are related. However, there is no historical evidence for the actual existence of these heroes.
 
@@ -275,7 +295,7 @@ From a historical and comparative perspective, therefore, it would seem that the
 
 Are any natural elements the components of these myths?
 
-Trita is connected with water by his very name _Aptya_ (meaning, 'born of water'). Also, Trita (meaning, 'third') is the third form of the god of fire, which is the lightning that releases the pent up waters in the clouds [^38]. Indra, too, is a lightning-wielder and brings down dark 'clouds' from the sky so that the waters can be released. Both these gods are helped by the wind gods when they pierce the cloud mountains. Thus, both Trita and Indra can be said to be manifestations of the natural phenomenon of lightning. 
+Trita is connected with water by his very name _Aptya_ (meaning, 'born of water'). Also, Trita (meaning, 'third') is the third form of the god of fire, which is the lightning that releases the pent-up waters in the clouds [^38]. Indra, too, is a lightning-wielder and brings down dark 'clouds' from the sky so that the waters can be released. Both these gods are helped by the wind gods when they pierce the cloud mountains. Thus, both Trita and Indra can be said to be manifestations of the natural phenomenon of lightning. 
 
 Trita and Thraetaona are both linked to fire. Thraetaona has later been called Behram [^39]. Whether the Iranian fire, known as _Atash-e-Bahram_ (meaning, 'the fire of Behram') is in any way related to Trita, Thraetaona, or the natural event of lightning, needs further research. 
 
@@ -297,16 +317,16 @@ Thraetaona of the Zend Avesta becomes, in later Persian literature, a prince cal
 
 Taking into consideration the analysis outlined in the preceding paragraphs, a comparison of these five myths can be tabulated as follows: 
 
-|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahaka | Vahagn - Azhdahak | Hercules - Cacus |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-|Linguistic|:material-check:|:question:|:material-check:|:material-check:|:x:|
-|Psychological|:material-check:|:x:|:material-check:|:material-check:|:material-check:|
-|Structural |:material-check:|:x:|:material-check:|:material-check:|:material-check:|
-|Historical and comparative|:x:|:x:|:material-check:|:material-check:|:material-check:|
-|Naturalistic|:material-check:|:material-check:|:question:|:x:|:x:|
-|Phylogenetical|:material-check:|:material-check:|:question:|:x:|:x:|
+|  | Indra - Vritra | Trita - Trishira | Thraetaona - Azi Dahâka | Vahagn - Azhdahak | Hercules - Cacus |
+| ---- |-----|---|---|----|---|
+|Linguistic| &check; | ? | &check; | &check; | X |
+|Psychological| &check; | X | &check; | &check; | &check; |
+|Structural | &check; | X | &check; | &check; | &check; |
+|Historical | X | X | &check; | &check; | &check; |
+|Naturalistic| &check; | &check; | ? | X  | X |
+|Phylogenetical| &check;| &check; | ? | X  | X |
 
-It can be seen from this table that a fair amount of correlation exists between the myths of Indra-Vritra, Thraetaona-Azi Dahaka, and Vahagn-Azhdahak.
+It can be seen from this table that a fair amount of correlation exists between the myths of Indra-Vritra, Thraetaona-Azi Dahâka, and Vahagn-Azhdahak.
  
 It is also seen that a fair amount of correlation exists between Thraetaona, Vahagn and Hercules, and between the Indra and Trita. It might be interesting to study whether there is any correlation between Trita and Thraetaona. 
 
@@ -325,27 +345,27 @@ A fuller study of these myths, with focus on the following points will surely re
 
 ## Bibliography
 
--  Al-Salihi, W., 1971. _"Hercules-Nergal at Hatra" On JSTOR_. (online) Jstor.org. Available at: <https://www.jstor.org/stable/4199919> (Accessed 10 February 2024).
--  American Heritage Dictionary. Meaning and etymology of dragon. (online) Available at: <https://ahdictionary.com/word/search.html?q=dragon> (Accessed 10 February 2024).
+-  Al-Salihi, W., 1971. _"Hercules-Nergal at Hatra" On JSTOR_. (online) Jstor.org. Available at <https://www.jstor.org/stable/4199919> (Accessed 10 February 2024).
+-  American Heritage Dictionary. Meaning and etymology of dragon. (online) Available at <https://ahdictionary.com/word/search.html?q=dragon> (Accessed 10 February 2024).
 -  Darmesteter, J. and Millis, L., 1883. _The Zenda Avesta_. Oxford: Clarendon. 
 -  Dryden, J., 1937. _Virgil's Aeneid_. New York: P. F. Collier and Son Corporation. 
 -  Hastings, J., Selbie, J. and Gray, L., 1926. _Encyclopædia Of Religion And Ethics_. Edinburgh: T & T Clark. 
--  Hewson, R., 1975. _"The Primary History Of Armenia": An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR_. (online) Jstor.org. Available at: <https://www.jstor.org/stable/3171466> (Accessed 10 February 2024). 
--  Iranicaonline.org. 2020. _ANTIOCHUS OF COMMAGENE – Encyclopaedia Iranica_. (online) Available at: 
+-  Hewson, R., 1975. _"The Primary History Of Armenia": An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR_. (online) Jstor.org. Available at <https://www.jstor.org/stable/3171466> (Accessed 10 February 2024). 
+-  Iranicaonline.org. 2020. _ANTIOCHUS OF COMMAGENE – Encyclopaedia Iranica_. (online) Available at 
 <https://iranicaonline.org/articles/antiochus-of-commagene> (Accessed 10 February 2024). 
 -  Kurkjian, V., 1958. _A History of Armenia_. Armenia: Armenian General Benevolent Union of America. 
 -  Liddell, H., Scott, R., Jones, H. and McKenzie, R., n.d. [_Liddell, Scott, And Jones Greek Lexicon (Online)_]. [Medford, MA]: [Perseus Digital Library, Tufts University, Classics Dept.]. 
 -  Macdonell, A. and Keith, A., 2007. _Vedic Index Of Names And Subjects_. Delhi: Motilal Banarsidass. 
--  MacDonell, A., 1893. _"Mythological Studies in the Rigveda." Journal of the Royal Asiatic Society of Great Britain and Ireland On JSTOR_. (online) Jstor.org. Available at: <https:// www.jstor.org/stable/25197152> (Accessed 10 February 2024). 
+-  MacDonell, A., 1893. _"Mythological Studies in the Rigveda." Journal of the Royal Asiatic Society of Great Britain and Ireland On JSTOR_. (online) Jstor.org. Available at <https:// www.jstor.org/stable/25197152> (Accessed 10 February 2024). 
 -  Macdonell, A., 2000. _Vedic Mythology_. New Delhi: Munshiram Manoharlal Publishers. 
 -  Mani, V., 1979. _Purānic Encyclopedia_. Delhi: Motilal Banarsidass. 
--  Nayiri.com. 2020. _Nayiri.Com_. (online) Available at: 
+-  Nayiri.com. 2020. _Nayiri.Com_. (online) Available at 
 <http://www.nayiri.com/search?l=fr&dt=HY_EN&r=0&query=%D6%85%D5%B1> (Accessed 10 February 2024). 
 -  Ovid, Dryden, J., Pope, A., Congreve, W. and Addison, J., 1833. _Ovid_. London: A.J. Valpy. 
--  Russell, J., 2007. _"The Shrine Beneath The Waves" On JSTOR_. (online) Jstor.org. Available at: <https://www.jstor.org/stable/20167721> (Accessed 10 February 2024). 
+-  Russell, J., 2007. _"The Shrine Beneath The Waves" On JSTOR_. (online) Jstor.org. Available at <https://www.jstor.org/stable/20167721> (Accessed 10 February 2024). 
 -  Sāyaṇa, Wilson, H., Arya, R. and Jośī, K., 2001. _Ṛgveda-Saṁhitā_. Delhi: Parimal. 
 -  Tripathi, G., 2011. _Vaidika Devatā_. Naī Dillī: Rāshtriya Samskr̥ta Samsthāna. 
- -  Varandyan, E., 1961. _"Legends And Poems From Armenia" On JSTOR_. (online) Jstor.org. Available at: <https://www.jstor.org/stable/40115293> (Accessed 10 February 2024). 
+ -  Varandyan, E., 1961. _"Legends And Poems From Armenia" On JSTOR_. (online) Jstor.org. Available at <https://www.jstor.org/stable/40115293> (Accessed 10 February 2024). 
 -  Warner, A. and Warner, E., 1905. _The Shahnama Of Firdausi_. London: Kegan Paul, Trench, Trübner & Co. Ltd.
 
 
@@ -363,15 +383,15 @@ ic Encyclopedia. Delhi: Motilal Banarsidass, p.795.
 [^11]: Yast XV, Ram Yast, Verse 20 
 [^12]: Yast XV, Ram Yast, Verses 24-2513 Yasna IX, Hom Yast, Verses 7-8 
 [^14]: Yasna IX, Hom Yast, Verses 10-11 
-[^15]: Russell, J., 2007. The Shrine Beneath The Waves On JSTOR. (online) Jstor.org. Available at: [https://www.jstor.org/stable/20167721](https://www.jstor.org/stable/20167721) (Accessed 10 February 2024). 
+[^15]: Russell, J., 2007. The Shrine Beneath The Waves On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/20167721](https://www.jstor.org/stable/20167721) (Accessed 10 February 2024). 
 [^16]: Kurkjian, V., 1958. A History of Armenia. Armenia: Armenian General Benevolent Union of America, p.300. 
-[^17]: Varandyan, E., 1961. Legends And Poems From Armenia On JSTOR. (online) Jstor.org. Available at: [https://www.jstor.org/stable/40115293](https://www.jstor.org/stable/40115293) (Accessed 10 February 2024). 
+[^17]: Varandyan, E., 1961. Legends And Poems From Armenia On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/40115293](https://www.jstor.org/stable/40115293) (Accessed 10 February 2024). 
 [^18]: Dryden, J., 1937. Virgil's Aeneid. New York: P. F. Collier and Son Corporation, pp.274-277.  
 [^19]: Rig Veda 1.11.5 
 [^20]: Rig Veda 2.11.1 
 [^21]: Rig Veda 2.14.2 
 [^22]: Tripathi, G., 2011. Vaidika Devatā. Naī Dillī: Rāshtriya Samskr̥ta Samsthāna, p.111. 
-[^23]: Nayiri.com. 2020. Nayiri.Com. (online) Available at: 
+[^23]: Nayiri.com. 2020. Nayiri.Com. (online) Available at 
 [http://www.nayiri.com/search?l=fr&dt=HY_EN&r=0&query=%D6%85%D5%B1](http://www.nayiri.com/search?l=fr&dt=HY_EN&r=0&query=%D6%85%D5%B1) (Accessed 10 February 2024). 
 [^24]: Hastings, J., Selbie, J. and Gray, L., 1926. Encyclopædia Of Religion And Ethics. Edinburgh: T & T Clark, p.798. 
 [^25]: Tripathi, G., 2011. Vaidika Devatā. Naī Dillī: Rāshtriya Samskr̥ta Samsthāna, p.95. 
@@ -384,10 +404,10 @@ ic Encyclopedia. Delhi: Motilal Banarsidass, p.795.
 [^32]: Ibid, p.159. 
 [^33]: Ibid, p.27. 
 [^34]: Hastings, J., Selbie, J. and Gray, L., 1926. Encyclopædia Of Religion And Ethics. Edinburgh: T & T Clark, p.799. 
-[^35]: Hewson, R., 1975. "The Primary History Of Armenia": An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR. (online) Jstor.org. Available at: [https://www.jstor.org/stable/3171466](https://www.jstor.org/stable/3171466) (Accessed 10 February 2024). 
-[^36]: Iranicaonline.org. 2020. ANTIOCHUS OF COMMAGENE – Encyclopaedia Iranica. (online) Available at: [https://iranicaonline.org/articles/antiochus-of-commagene](https://iranicaonline.org/articles/antiochus-of-commagene) (Accessed 10 February 2024).
-[^37]: Al-Salihi, W., 1971. "Hercules-Nergal at Hatra" On JSTOR. (online) Jstor.org. Available at: [https://www.jstor.org/stable/4199919](https://www.jstor.org/stable/4199919) (Accessed 10 February 2024). 
-[^38]: MacDonell, A., 1893. "Mythological Studies in the Rigveda." Journal of the Royal Asiatic Society of Great Britain and Ireland On JSTOR. (online) Jstor.org. Available at: [https://www.jstor.org/stable/25197152](https://www.jstor.org/stable/25197152) (Accessed 10 February 2024). 
+[^35]: Hewson, R., 1975. "The Primary History Of Armenia": An Examination Of The Validity Of An Immemorially Transmitted Historical Tradition On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/3171466](https://www.jstor.org/stable/3171466) (Accessed 10 February 2024). 
+[^36]: Iranicaonline.org. 2020. ANTIOCHUS OF COMMAGENE – Encyclopaedia Iranica. (online) Available at [https://iranicaonline.org/articles/antiochus-of-commagene](https://iranicaonline.org/articles/antiochus-of-commagene) (Accessed 10 February 2024).
+[^37]: Al-Salihi, W., 1971. "Hercules-Nergal at Hatra" On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/4199919](https://www.jstor.org/stable/4199919) (Accessed 10 February 2024). 
+[^38]: MacDonell, A., 1893. "Mythological Studies in the Rigveda." Journal of the Royal Asiatic Society of Great Britain and Ireland On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/25197152](https://www.jstor.org/stable/25197152) (Accessed 10 February 2024). 
 [^39]: Tripathi, G., 2011. Vaidika Devatā. Naī Dillī: Rāshtriya Samskr̥ta Samsthāna, p.111.  
 [^40]: Macdonell, A. and Keith, A., 2007. Vedic Index Of Names And Subjects. Delhi: Motilal Banarsidass, p.i. 329. 
 [^41]: Rig Veda 9.32, 9.34, 9.38 
