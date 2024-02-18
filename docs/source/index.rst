@@ -1,16 +1,16 @@
 .. meta::
    :description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical analysis of the mythology of the world
    :title: Myths across the world
-   :image: https://comparative-mythology.readthedocs.io/en/latest/_static/logo.jpg
+   :image: _static/logo.jpg
    :author: Anindita Basu
    :twitter:description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical analysis of the mythology of the world
    :twitter:title: Myths across the world
-   :twitter:image: https://comparative-mythology.readthedocs.io/en/latest/_static/logo.jpg
+   :twitter:image: _static/logo.jpg
    :twitter:card: summary_large_image
    :og:type: website
    :og:title: Myths across the world
    :og:description: A linguistic, psychological, structural, phylogenetical, naturalistic, and historical analysis of the mythology of the world
-   :og:image: https://comparative-mythology.readthedocs.io/en/latest/_static/logo.jpg
+   :og:image: _static/logo.jpg
 
 Comparative Mythology
 ======================
