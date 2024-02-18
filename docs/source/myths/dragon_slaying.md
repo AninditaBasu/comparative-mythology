@@ -4,33 +4,37 @@ myst:
     "title": "Dragon killers"
     "description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
     "author": "Anindita Basu"
-    "image": "https://comparative-mythology.readthedocs.io/en/latest/_static/Indra_Musee_Guimet_1097_1.jpg"
+    "image": "https://comparative-mythology.readthedocs.io/en/latest/_static/trita.jpg"
     "keywords": "India, Persia, Armenia, Italy"
     "og:type": "website"
     "og:title": "Dragon killers"
     "og:description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
-    "og:image": "https://comparative-mythology.readthedocs.io/en/latest/_static/Indra_Musee_Guimet_1097_1.jpg"
+    "og:image": "https://comparative-mythology.readthedocs.io/en/latest/_static/trita.jpg"
     "twitter:card": "summary_large_image"
     "twitter:title": "Dragon killers"
     "twitter:description": "Here be dragons and heros. Indra and Vritra, Trita Aptya and Trishira, Thraetaona and Azi Dahâka, Vahagn and Azhdahak, Hercules and Cacus."
-    "twitter:image": "https://comparative-mythology.readthedocs.io/en/latest/_static/Indra_Musee_Guimet_1097_1.jpg"
+    "twitter:image": "https://comparative-mythology.readthedocs.io/en/latest/_static/trita.jpg"
 ---
 
 # Dragon slayings
 
 Dragons are mythical monsters that look like giant reptiles. The etymology of the word suggests that _dragon_ is derived from the Greek word _drakōn_, which means _snake_ [^1]. Snakes have, from the earliest times, been feared because of their human-killing venomous bite. It was easy for the ancients to imagine anything fearsome and cruel to be a dragon, and any person overcoming or killing such a menace to be a hero, worthy of adulation.
 
-Here are some dragon-killing myths that have been handed down through generations by means of oral tradition and folklore. These myths are all from the region that lies between India and Italy.
+## The stories
+
+Here are five stories about killing dragons. These stories have been handed down through generations by means of oral tradition and folklore, and are from the region that lies between India and Italy.
 
 ![images/here_be_dragons.png](../images/here_be_dragons.png)
 
-## Myth 1: Indra and Vritra (India) 
+### Indra and Vritra (India) 
 
-There was once a demon called Vritra. He went and stole the cows of the gods and hid the cows in a cave. The cave was guarded by Vritra's army of the Panis, who had also helped him in the stealing operation. 
+There was once a demon called Vritra. He went and stole the cows of the gods and hid the cows in a cave. He then deployed his army of the Panis to guard the cave. 
 
-Upon discovering that their cattle was missing, the gods sent their dog, Sarama, to look for the cows. Sarama located the cave where the cows were hidden, and, acting as a messenger of the gods, asked the Pani guards to hand the cattle over to her. The Panis refused. Instead, they offered to not only make her their sister but also the owner of the cattle, provided she switched over to their side. Sarama refused, went back to the gods, and revealed the location of the cave [^2]. 
+Upon discovering that their cattle was missing, the gods sent their dog, Sarama, to look for the cows. Sarama located the cave where the cows were hidden, and, acting as a messenger of the gods, asked the Pani guards to hand the cattle over to her. The Panis refused. Instead, they made an offer: if Sarama would switch over to the side of the Panis, they would make her their sister and also the owner of the cattle. Sarama refused, went back to the gods, and revealed the location of the cave [^2]. 
 
-Thereupon, Indra, the king of the gods, gathered his army around, fortified himself with Soma, and attacked Vritra and his Pani troops. Indra took up his thunderbolt and hurled it towards Vritra with a huge roar. The thunderbolt struck Vritra down dead, and split open the mountain that was concealing the cattle herd, who ran out towards the waiting gods. The Rig Veda describes this event several times, for example, in the following verses:
+Thereupon, Indra, the king of the gods, gathered his army around, fortified himself with Soma, and marched against Vritra and his Pani troops. Indra took up his thunderbolt and hurled it towards Vritra with a huge roar. The thunderbolt struck Vritra down dead, and split open the mountain that was concealing the cattle herd, who ran out, lowing, towards the waiting gods. 
+
+The Rig Veda describes this event several times. For example, see the following verses:
 
 ```{admonition} Indra's deed   
 
@@ -47,13 +51,31 @@ Thereupon, Indra, the king of the gods, gathered his army around, fortified hims
 [9th century relief panel from the Phnom Kulen National Park in Cambodia showing Indra overpowering Vritra. Photo by Vassil - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=2724995)
 :::
 
-## Myth 2: Trita Aptya and Trishira (India)
+### Trita Aptya and Trishira (India)
  
-There were once three boys, Trita, and his brothers Eka and Dvita, who were the son of Agni and born from the waters. Once, when the three brothers were going somewhere in quest of money, Trita was pushed into a well by his brothers, who then covered the well with a cartwheel and left, leaving Trita to die. Trita prayed to the gods, and with their help, threw open the wheel covering the well and emerged, to go and claim his ancestral weapons [^5]. So, this was Trita.
+There were once three boys named Eka, Dvita, and Trita. They were the sons of Agni and born from the waters. Once, when the three brothers were going somewhere in quest of money, Trita was pushed into a well by his two brothers, who then covered the well with a cartwheel and went away, leaving their brother to die. 
 
-Then, there was also Trishira, who was the three-headed son of Tvashtri (master forger of the gods). With one of his heads, Trishira ate his food, with the second, he drank the Soma juice, and with the third, he recited the Vedas. Trishira was a guardian of cows. 
+:::{figure-md} 
 
-Indra, the king of the gods, became fearful of Trishira's power and thought he might be deposed by Trishira. Indra, therefore, wanted Trishira dead. For this purpose, he incited Trita, who then killed Trishira and released his cows [^6]. In this endeavour, Trita was aided by the wind gods. This event is described in the following manner in the Rig Veda:
+<img src="../_static/trita.jpg" alt="Trita, image generated by DALL-E">
+
+Trita, by DALL-E
+:::
+
+ Trita prayed to the gods, and with their help, threw open the wheel covering the well and came out. He then proceeded to learn the martial arts and claim his ancestral weapons [^5].
+
+So, this was Trita.
+
+Then, there was Trishira, the three-headed son of Tvashti (master forger of the gods). With one of his heads, Trishira had his food, with the second, he drank the Soma juice, and with the third, he recited the Vedas. Trishira was a guardian of cows. 
+
+:::{figure-md} 
+
+<img src="../images/trishira.jpg" alt="Trishira, image generated by DALL-E">
+
+Trishira, by DALL-E
+:::
+
+Indra, the king of the gods, became fearful of Trishira. He thought that someone as powerful as Trishira might depose him and sieze the throne of heaven. Indra, therefore, wanted Trishira dead. For this purpose, he incited Trita, who then killed Trishira and released his cows [^6]. The wind gods helped Trita in this battle. The event is described in the following manner in the Rig Veda:
 
 ```{admonition} Trita - Trishira battle 
 
@@ -63,7 +85,7 @@ Indra, the king of the gods, became fearful of Trishira's power and thought he m
 
 ```
 
-## Myth 3: Thraetaona and Azi Dahâka (Persia)
+### Thraetaona and Azi Dahâka (Persia)
 
 Azi Dahâka was a three-headed, deceitful monster that was created by the dark force called Angra Mainyu. 
 
@@ -71,7 +93,11 @@ Seeking a boon that he may clear the world of humankind, the monster performed a
 
 ```{admonition} Azi Dahâka prays to Anâhita
 
-   To her did Azi Dahâka, the three-mouthed, offer up a sacrifice…"Grant me this boon, O good, most beneficent Ardvi Sûra Anâhita! that I may make all the seven Karshvares of the earth empty of men." Ardvi Sûra Anâhita did not grant him that boon [^9]. 
+   To her did Azi Dahâka, the three-mouthed, offer up a sacrifice…
+   
+   "Grant me this boon, O good, most beneficent Ardvi Sûra Anâhita! that I may make all the seven Karshvares of the earth empty of men." 
+   
+   Ardvi Sûra Anâhita did not grant him that boon [^9]. 
 
 ```
 
@@ -99,11 +125,15 @@ But Vayu, too, did not grant Azi Dahâka his request.  Instead, just like Anâhi
 
 ```
 
-Thraetaona then defeated Azi Dahâka, and bound him to the mountain Damavant, where the monster is to remain till the end of the world, when he'll be finally killed by Keresâspa. The exploit of Thraetaona is described in the Zend Avesta in the following manner:
+Fortified with the boons and blessings of Anâhita and Vayu, Thraetaona then defeated Azi Dahâka, and bound him to the mountain Damavant.  It is said that the monster will remain there, bound, till the end of the world, when he'll be finally killed by Keresâspa. 
+
+The exploit of Thraetaona is described in the Zend Avesta in the following manner:
 
 ```{admonition} Thraetaona's deed 
 
-   Athwya, was the second who prepared me for the corporeal world. This blessedness was given him, this gain did he acquire, that to him a son was born, Thraetaona of the heroic tribe, who smote the dragon Dahak, three jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of the Daevas, evil for our settlements, and wicked, whom the evil spirit Angra Mainyu made as the most mighty Drugk against the corporeal world, and for the murder of our settlements, and to slay the homes of Asha [^13].
+   Athwya, was the second who prepared me for the corporeal world. 
+   
+   This blessedness was given him, this gain did he acquire, that to him a son was born, Thraetaona of the heroic tribe, who smote the dragon Dahak, three jawed and triple-headed, six-eyed, with thousand powers, and of mighty strength, a lie-demon of the Daevas, evil for our settlements, and wicked, whom the evil spirit Angra Mainyu made as the most mighty Drugk against the corporeal world, and for the murder of our settlements, and to slay the homes of Asha [^13].
 	
 ```
 
@@ -115,7 +145,14 @@ Keresâspa, who is earmarked for killing Azi Dahâka at the end of time, is none
 	
 ```
 
-## Myth 4: Vahagn and Azhdahak (Armenia) 
+:::{figure-md} 
+
+<img src="../images/keresaspa.jpg" alt="Keresaspa, image generated by DALL-E">
+
+Keresâspa, by DALL-E
+:::
+
+### Vahagn and Azhdahak (Armenia) 
 
 Vahagn belongs to the Armenian gods trinity, along with two other gods, namely, Armazd and Anahit. In Yerevan, Armenia, there's a huge rock-cut statue of the god Vahagn killing a serpent dragon.
 
@@ -133,20 +170,28 @@ The story about killing the monster Azhdahak is recounted in a song by Moses Kho
 ```{admonition} Vahagn's birth
 
    In travail were heaven and earth,
+   
    In travail, too, the purple sea!
+   
    The travail held in the sea the small red reed.
+   
    Through the hollow of the stalk came forth smoke,
+   
    Through the hollow of the stalk came forth flame,
+   
    And out of the flame a youth ran!
+   
    Fiery hair had he,
+   
    Ay, too, he had flaming beard,
+   
    And his eyes, they were as suns! 
 
 ```
 
 The song goes on to say that Vahagn killed Azhdahak, and is called _Vishapakagh_ because he killed dragons [^17] (in the Armenian language, _vishap_ means 'sea dragon' and _akagh_ means 'slayer'). 
 
-## Myth 5: Hercules and Cacus (Italy) 
+### Hercules and Cacus (Italy) 
 
 Cacus was a fire-breathing monster who lived in the caves around Rome and terrorised the countryside. The entire area around his cave was littered with the heads, bones, and carcasses of the men and animals he had killed and eaten, and the ground was stained with their blood.
 
@@ -186,7 +231,9 @@ When Hercules awoke and learnt what had happened, he went up to Cacus's cave to 
 
 ```
 
-## Linguistic analysis
+## The comparison
+
+### Linguistic analysis
 
 Are there any connections between the words in the myths? 
 
@@ -227,7 +274,7 @@ It also seems that, linguistically, the Trita-Trishira myth belongs only tentati
 
 The other three myths, namely, the Indra-Vritra myth, the Thraetaona-Azi Dahâka myth, and the Vahagn-Azhdahak myth, have several linguistic similarities among them.
 
-## Psychological analysis
+### Psychological analysis
 
 Are there any common motifs or behavioural pattern in the actors and scenes in these myths?
 
@@ -247,7 +294,7 @@ Here's a tabulation of the archetypes in these myths.
 
 From a psychological standpoint, therefore, the Trita-Trishira myth does not belong to the same class as the other four myths.
 
-## Structural analysis
+### Structural analysis
 
 What's the plot?
 
@@ -272,26 +319,26 @@ The structural similarities among these myths can be tabulated in the following 
 
 From a structural standpoint, it looks like the Trita-Trishira myth is an outlier for this group, and is structurally not really similar to them except for the part about the vanquished being a three-headed being.
  
-## Historical analysis
+### Historical analysis
 
 Historical evidence for Indra and Trita are non-existent. 
 
 Because of the pervading cultural influence of Iran over Armenia for a very long time, the Iranian Verethergn became the Armenian Vahagn [^34]. In later Armenian lore, Vahagn is a king who had once been worshipped as a god, and from whom the hereditary high priests of Armenia claimed descent [^35]. In the Hellenic times, Vahagn was linked to Hercules.
 
-:::{figure-md} 
+:::{figure-md}
 
-<img src="/images/Bistoon_Kermanshah.jpg" alt="Hellenic-era depiction of Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran">
+<img src="/images/behram.jpg" alt="Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran">
 
-[Hellenic-era depiction of Verethragna as Heracles, carved in 148 BCE at Kermanshah, Iran. Verethragna (Bahram) reclines with a goblet in his hand, a club at his feet and a lion-skin beneath him. Photo by Alieh - Flickr, CC BY 2.0](https://commons.wikimedia.org/wiki/index.%20php?curid=1654040)
+[Verethragna as Heracles at Kermanshah, Iran, 148 BCE. Verethragna, called Bahram, reclines with a goblet in his hand, a club at his feet and a lion-skin beneath him. Photo by Alieh - Flickr, CC BY 2.0](https://commons.wikimedia.org/wiki/index.php?curid=1654040)
 :::
 
 The monuments at Mount Nemrut, Turkey, erected by Antiochus I Theos of Commagene [^36], show that both the Iranian Verethregn (Thraetaona) and the Armenian Vahagn were identified with Hercules [^37]. 
 
-From a historical and comparative perspective, therefore, it would seem that the Thraetaona, Vahagn, and Hercules myths are related. However, there is no historical evidence for the actual existence of these heroes.
+From a historical perspective, therefore, it would seem that the myths of Thraetaona, Vahagn, and Hercules are related. However, there is no historical evidence for the actual existence of these heroes.
 
-## Naturalistic analysis
+### Naturalistic analysis
 
-Are any natural elements the components of these myths?
+Do any natural elements find place in these myths?
 
 Trita is connected with water by his very name _Aptya_ (meaning, 'born of water'). Also, Trita (meaning, 'third') is the third form of the god of fire, which is the lightning that releases the pent-up waters in the clouds [^38]. Indra, too, is a lightning-wielder and brings down dark 'clouds' from the sky so that the waters can be released. Both these gods are helped by the wind gods when they pierce the cloud mountains. Thus, both Trita and Indra can be said to be manifestations of the natural phenomenon of lightning. 
 
@@ -299,7 +346,7 @@ Trita and Thraetaona are both linked to fire. Thraetaona has later been called B
 
 The myths of Vahagn and Hercules do not seem to show any connection with any natural phenomenon. 
 
-## Phylogenetical 
+### Phylogenetical analysis
 
 History begins where myths end. How did these myths change over time?
 
@@ -338,7 +385,6 @@ A fuller study of these myths, with focus on the following points will surely re
 -  Whether the Faridun story is related to the Iranian myth of Jamshid/Yima
 -  Whether the Iranian Thraetaona is related to the Indian Trita 
 
-
 <hr/>
 
 ## Bibliography
@@ -366,6 +412,9 @@ A fuller study of these myths, with focus on the following points will surely re
  -  Varandyan, E., 1961. _"Legends And Poems From Armenia" On JSTOR_. (online) Jstor.org. Available at <https://www.jstor.org/stable/40115293> (Accessed 10 February 2024). 
 -  Warner, A. and Warner, E., 1905. _The Shahnama Of Firdausi_. London: Kegan Paul, Trench, Trübner & Co. Ltd.
 
+<hr/>
+
+## Footnotes
 
 [^1]: [Meaning](https://ahdictionary.com/word/search.html?q=dragon) and [etymology](https://www.ahdictionary.com/word/indoeurop.html) of _dragon_ at The American Heritage Dictionary online (Accessed 10 February 2024).
 [^2]: Rig Veda 10.108.
@@ -379,7 +428,8 @@ ic Encyclopedia. Delhi: Motilal Banarsidass, p.795.
 [^9]: Yašt V, Ābān Yašt, Chapters VIII-IX, Verses 28-32 
 [^10]: Yašt V, Ābān Yašt, Chapters VIII-IX, Verses 33-35 
 [^11]: Yašt XV, Ram Yašt, Verse 20 
-[^12]: Yašt XV, Ram Yašt, Verses 24-2513 Yasna IX, Hom Yašt, Verses 7-8 
+[^12]: Yašt XV, Ram Yašt, Verses 24-2513 Yasna IX, Hom Yašt, Verses 7-8
+[^13]: Yasna IX, Hom Yašt, Verses 7-8
 [^14]: Yasna IX, Hom Yašt, Verses 10-11 
 [^15]: Russell, J., 2007. The Shrine Beneath The Waves On JSTOR. (online) Jstor.org. Available at [https://www.jstor.org/stable/20167721](https://www.jstor.org/stable/20167721) (Accessed 10 February 2024). 
 [^16]: Kurkjian, V., 1958. A History of Armenia. Armenia: Armenian General Benevolent Union of America, p.300.

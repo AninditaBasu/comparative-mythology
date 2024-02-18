@@ -8,7 +8,7 @@
 
 project = 'Comparative Mythology'
 copyright = '2024, Anindita Basu'
-author = 'Anindita Basu'
+#author = 'Anindita Basu'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -44,18 +44,16 @@ html_theme_options = {
     "repository_branch": "main",
     "home_page_in_toc": True,
     "show_navbar_depth": 2,
-    #"extra_navbar": "<a href='about.html'>About me</a>",
     "toc_title": "On this page",
     "show_toc_level": 2,
+    "extra_footer": "<a href = 'https://comparative-mythology.readthedocs.io/en/latest/about.html'>About me</a>",
 }
 html_sidebars = {
     "**": ["navbar-logo.html", "search-field.html", "sbt-sidebar-nav.html"]
 }
 
 myst_html_meta = {
-    "description lang=en": "A linguistic, psychological, structural, phylogenetical, naturalistic, and historical and comparative analysis of the mythology of the world",
-    "keywords": "mythology, comparative mythology",
-    "property=og:locale":  "en_US",
+    "description": "Mythology of the world: a comparison through linguistics, psychology, structure, phylogenetics, nature, and history",
     "image": "_static/logo.jpg"
 }
 
